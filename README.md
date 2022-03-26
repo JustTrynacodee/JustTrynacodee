@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustTrynacodee
-- 👀 I’m interested in python coding 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in HTML coding 
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a website
 - 📫 You can ping me in discord btw my discord is (Fire 🔥#0810) 
 
